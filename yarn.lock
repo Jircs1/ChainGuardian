@@ -2027,7 +2027,12 @@
     level "^6.0.1"
     levelup "^4.4.0"
 
-"@chainsafe/lodestar-params@0.29.0", "@chainsafe/lodestar-params@^0.29.0":
+"@chainsafe/lodestar-params@0.39.0":
+  version "0.39.0"
+  resolved "https://registry.yarnpkg.com/@chainsafe/lodestar-params/-/lodestar-params-0.39.0.tgz#24baa1ead18f2463c1372a5cb29dbea960fd6456"
+  integrity sha512-VzgTFkKSGpfnVSlQr8ueiwwcTIRn0LPE1hCr8KE4h3AHBWXQpomLgqjU8CKZZnDGfhsUv4cMbXIfD54HCuGPoA==
+
+"@chainsafe/lodestar-params@^0.29.0":
   version "0.29.0"
   resolved "https://registry.yarnpkg.com/@chainsafe/lodestar-params/-/lodestar-params-0.29.0.tgz#84e3e0d6b10c89c6aa5a6fa4be37c8d67e662160"
   integrity sha512-rj6z9FkTuduDDbgymBgk1LsOmCirElS5p51FT/VKyo0JhFCBn/R96t1U4Z61f2fpXbxFXPfAvZ1DvwIvES5khQ==
