@@ -192,7 +192,7 @@
     "@chainsafe/lodestar-beacon-state-transition": "0.29.0",
     "@chainsafe/lodestar-config": "0.29.0",
     "@chainsafe/lodestar-db": "0.29.0",
-    "@chainsafe/lodestar-params": "0.29.0",
+    "@chainsafe/lodestar-params": "0.39.0",
     "@chainsafe/lodestar-types": "0.29.0",
     "@chainsafe/lodestar-utils": "0.29.0",
     "@chainsafe/lodestar-validator": "0.29.0",
