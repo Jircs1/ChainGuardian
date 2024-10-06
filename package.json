@@ -202,7 +202,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.12",
     "@reduxjs/toolkit": "^1.4.0",
-    "@sentry/electron": "2.0.3",
+    "@sentry/electron": "4.15.0",
     "archiver": "^5.2.0",
     "axios": "0.21.2",
     "bigint-buffer": "1.1.5",
