@@ -186,7 +186,7 @@
   "dependencies": {
     "@chainsafe/bls": "6.0.1",
     "@chainsafe/bls-keygen": "0.3.0",
-    "@chainsafe/bls-keystore": "2.0.0",
+    "@chainsafe/bls-keystore": "3.0.0",
     "@chainsafe/blst": "0.2.0",
     "@chainsafe/lodestar-api": "0.29.0",
     "@chainsafe/lodestar-beacon-state-transition": "0.29.0",
